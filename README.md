@@ -12,6 +12,11 @@
 
 `D:\ecommerce-multimodal-rag`
 
+<img width="1330" height="1315" alt="屏幕截图 2026-03-25 033617" src="https://github.com/user-attachments/assets/1268300e-3cb8-45e8-adc8-efe900725f05" />
+
+
+
+
 ## 1. 项目目标
 
 这个项目的目标不是做一个“参数最大”的多模态系统，而是在以下现实约束下，做一个真正可落地、可启动、可演示、可继续迭代的本地系统：
