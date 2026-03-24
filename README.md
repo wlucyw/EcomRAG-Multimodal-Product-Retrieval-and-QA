@@ -496,7 +496,7 @@ python src\build_clip_index.py
 python src\build_text_index.py
 ```
 
-## 18. 一句话总结
+## 18. 总结
 
 这个项目最重要的沉淀不是“把一个多模态 RAG 系统跑起来”，而是明确了一件事：
 
