@@ -1,0 +1,10 @@
+torch
+transformers
+faiss-cpu
+pandas
+numpy
+pillow
+tqdm
+gradio
+pyarrow
+sentencepiece
