@@ -506,3 +506,6 @@ python src\build_text_index.py
 这个项目最重要的沉淀不是“把一个多模态 RAG 系统跑起来”，而是明确了一件事：
 
 在本地资源受限的环境下，真正决定系统可用性的，往往不是模型规模，而是模块边界、交互拆分、速度控制、展示策略和工程取舍。
+
+<img width="1830" height="1328" alt="屏幕截图 2026-03-25 033651" src="https://github.com/user-attachments/assets/4d766bd8-cc18-4bdb-8965-acfa1726c163" />
+
